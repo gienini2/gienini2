@@ -2,7 +2,7 @@
 
 **AI systems builder** · **AI Security & offensive security (in training)** · Law enforcement professional · Ex-PLC programmer (Omron, international deployments)
 
-> Built 15+ production AI systems independently in 6 months — FinTech, GovTech, industrial RAG, local AI infrastructure, and RPA automation. Now specializing in **AI Security / LLM red teaming** and **ethical hacking**.
+> Built 18+ production AI systems independently in 6 months — FinTech, GovTech, industrial RAG, local AI infrastructure, and RPA automation. Now specializing in **AI Security / LLM red teaming** and **ethical hacking**.
 
 ---
 
